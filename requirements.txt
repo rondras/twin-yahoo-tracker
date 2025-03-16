@@ -1,0 +1,6 @@
+yfinance
+sqlalchemy
+python-dotenv
+mysql-connector-python
+requests
+flask
